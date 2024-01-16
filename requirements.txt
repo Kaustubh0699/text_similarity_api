@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-transformers
-torch
+fasttext
 sentence-transformers
 scikit-learn
