@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+scikit-learn
